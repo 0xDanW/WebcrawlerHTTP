@@ -1,0 +1,23 @@
+{
+  "name": "webcrawlerhttp",
+  "version": "1.0.0",
+  "description": "A CLI-based application that runs on NodeJS to crawl websites and produce a report on the internal linking structure of the website.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielwyh/WebcrawlerHTTP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielwyh/WebcrawlerHTTP/issues"
+  },
+  "homepage": "https://github.com/danielwyh/WebcrawlerHTTP#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
