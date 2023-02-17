@@ -1,3 +1,5 @@
+// Jest test suite file
+
 const { normalizeURL, getURLsFromHTML } = require('./crawl.js')
 const { test, expect } = require('@jest/globals')
 
